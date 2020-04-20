@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mp-mushroom-online
 
 > A Mpvue project
@@ -35,3 +36,7 @@ npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# mini-program-study
+小程序学习之路
+>>>>>>> 34938a12556de3023d4304d91d953be6b55c4e37
